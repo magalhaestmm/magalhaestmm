@@ -2,7 +2,7 @@
 
 Estudante de Engenharia no ITA;
 
-Membro de consultoria da ITA Júnior (EJ);
+Membro de consultoria e de computação da ITA Júnior (EJ);
 
 C2 em Inglês, B1 em Alemão e A2 em Francês;
 
