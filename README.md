@@ -4,7 +4,7 @@ Estudante de Engenharia no ITA;
 
 Membro de consultoria da ITA Júnior (EJ);
 
-C2 em Inglês, B1 em Alemão e A1 em Francês;
+C2 em Inglês, B1 em Alemão e A2 em Francês;
 
 Python, HTML, CSS, JavaScript, C e C++.
 
