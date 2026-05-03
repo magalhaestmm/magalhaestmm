@@ -8,7 +8,7 @@ C2 em Inglês, B1 em Alemão e A2 em Francês;
 
 Python, HTML, CSS, JavaScript, C e C++.
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
